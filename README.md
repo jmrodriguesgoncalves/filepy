@@ -8,10 +8,10 @@ filepy is written in Python and it is used extensibly for labs 6, 7, and 8 for D
 
 | File | Path |
 | ------ | ------ |
-| filename  | [filename.py] (./filename.py) |
-| filesize  | [filesize.py] (./filesize.py) |
-| MD5 Digest  | [md5.py] (./md5.py) |
-| SHA-1 Digest  | [sha1.py] (./sha1.py) |
+| filename  | [filename.py](./filename.py) |
+| filesize  | [filesize.py](./filesize.py) |
+| MD5 Digest  | [md5.py](./md5.py) |
+| SHA-1 Digest  | [sha1.py](./sha1.py) |
 | Tests | [test_build.py](./test_build.py)  |
 
 
