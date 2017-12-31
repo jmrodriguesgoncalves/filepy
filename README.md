@@ -30,4 +30,4 @@ filepy is written in Python and it is used extensibly for labs 6, 7, and 8 for D
 
 Feel free to read through the [contribution document](./CONTRIBUTE.md)
 
-## [LICENSE](./LICENSE.md)
+## [LICENSE](./LICENSE)
